@@ -4,7 +4,7 @@
   </component>
 
   <div>
-    <button @click="listContent.push('SgContentHeading')">Add content 1</button>
+    <!-- <button @click="listContent.push('SgContentHeading')">Add content 1</button> -->
     <button @click="listContent.push('SgContent2')">Add content 2</button>
   </div>
 </template>
